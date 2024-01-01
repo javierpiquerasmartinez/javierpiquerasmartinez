@@ -6,6 +6,7 @@
   - [Twitter](https://twitter.com/javierpiquerasm)
   - [Instagram](https://www.instagram.com/javierpiquerasbrand/)
   - [GitHub](https://github.com/javierpiquerasmartinez/javierpiquerasmartinez/)
+  - [LinkedIn](www.linkedin.com/in/javipiquerasm)
 
 <!---
 javierpiquerasmartinez/javierpiquerasmartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

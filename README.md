@@ -15,7 +15,9 @@ Since January 2026 I'm available for freelance and contract engagements. If you 
 senior engineer who can move fast without breaking things, let's talk.
 
 🔧 React · TypeScript · Node.js · NestJS · PostgreSQL · MongoDB · AWS · Docker · Claude Code
+
 🌍 Valencia, Spain · Remote-friendly · EN / ES / FR
+
 🔗 javipiqueras.dev · github.com/javierpiquerasmartinez
 
 <!---
